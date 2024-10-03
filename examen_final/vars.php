@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
-$usuario = 'admin';
-$clave = '12345678';
+$usuario = 'root';
+$clave = '';
 $database = 'blog_db';
 $port =3306;
 ?>
